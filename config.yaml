@@ -1,0 +1,4 @@
+log:
+  path: './'
+  file: 'main.log'
+  level: 'INFO' # DEBUG, INFO, WARNING, ERROR
